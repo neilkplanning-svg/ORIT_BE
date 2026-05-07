@@ -1,0 +1,11 @@
+# robots.txt - אתר משרד עו"ד אורית בן אלי
+# Updated: 2026-05-07
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://neilkplanning-svg.github.io/ORIT_BE/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
